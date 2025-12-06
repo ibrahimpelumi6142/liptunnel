@@ -11,6 +11,23 @@ Created by **Lasisi Ibrahim Pelumi (Full-Stack Engineer)**.
 
 ---
 
+## 📁 Repository Folder Structure
+
+```bash 
+liptunnel/
+ ├─ bin/
+ │   └─ liptunnel.js        # CLI client (runs on user machine)
+ ├─ server/
+ │   └─ server.js           # Tunnel server (runs on VPS)
+ ├─ docs/
+ │   └─ architecture.md
+ ├─ package.json
+ ├─ README.md
+ ├─ LICENSE
+ ```
+
+---
+
 ## 🚀 Features
 
 - 🔥 Expose any local port over HTTP  
