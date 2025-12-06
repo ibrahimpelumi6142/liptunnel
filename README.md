@@ -47,7 +47,13 @@ liptunnel/
 
 Below is an actual output of **LIPTunnel running live**:
 
+#### Screenshot 1 → Client side (your CMD window
+
 ![LIPTunnel CLI Screenshot](./assets/liptunnel-demo.png)
+
+#### Screenshot 2 → Server side (PM2)
+
+![LIPTunnel Server PM2 Screenshot](./assets/server-pm2.png)
 
 *(Replace above image with your actual screenshot file path.)*
 
