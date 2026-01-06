@@ -214,6 +214,6 @@ http://127.0.0.1:4040
 
 ---
 
-##📜 License
+## 📜 License
 
 MIT License — free to use, modify, and distribute.
