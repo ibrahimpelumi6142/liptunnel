@@ -205,7 +205,6 @@ http://127.0.0.1:4040
 
 - Lasisi Ibrahim Pelumi
 - Full-Stack Engineer • Automation Developer
-- 🇬🇧 Sheffield, UK
 
 - GitHub: https://github.com/ibrahimpelumi6142
 - Email: ibrahimpelumi6142@gmail.com
