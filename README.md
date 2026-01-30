@@ -31,7 +31,8 @@ liptunnel/
  ├─ server/
  │   └─ server.js           # Tunnel server (runs on VPS)
  ├─ docs/
- │   └─ architecture.md
+ │   | architecture.md
+ |   └─ multi-tunnel.md
  ├─ package.json
  ├─ README.md
  ├─ LICENSE
