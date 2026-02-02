@@ -101,7 +101,7 @@ Below is an actual output of **LIPTunnel running live**:
 
 #### Screenshot 1 → Client side (your CMD window)
 
-![LIPTunnel CLI Screenshot](./assets/liptunnel-demo.png)
+![LIPTunnel CLI Screenshot](./assets/liptunnel-multi-tunnel.png)
 
 #### Screenshot 2 → Server side (PM2)
 
